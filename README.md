@@ -1,2 +1,3 @@
 # sfo-pyplus
-TWB-tech SFO training
+
+Training 11/19/2019-11/22/2019
