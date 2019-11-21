@@ -1,0 +1,5 @@
+---
+cisco4:
+  device_type: cisco_ios
+  host: cisco4.lasthop.io
+  username: pyclass
