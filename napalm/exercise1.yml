@@ -1,0 +1,8 @@
+---
+arista1:
+  driver: eos
+  hostname: arista1.lasthop.io
+
+arista2:
+  driver: eos
+  hostname: arista2.lasthop.io
